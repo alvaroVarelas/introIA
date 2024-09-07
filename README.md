@@ -33,4 +33,11 @@ kaggle competitions download -c udea-ai4eng-20242
 
 ## Citación
 
+@misc{udea-ai4eng-20242,
+    author = {RLX},
+    title = {UDEA/ai4eng 20242 - Pruebas Saber Pro Colombia},
+    publisher = {Kaggle},
+    year = {2024},
+    url = {https://kaggle.com/competitions/udea-ai4eng-20242}
+}
 www.kaggle.com/competitions/udea-ai4eng-20242/overview/$citation
