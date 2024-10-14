@@ -7,6 +7,5 @@
 - **Cédula**: ***71256826***
 - **Programa**: *Ingenieria de sistemas*
 
-<<<<<<< HEAD
 ### Enlace video preprocesado y limpieza de datos
 - **preprocesado**: ***[Proyecto Kagle preprocesado](https://youtu.be/LHjOOYqlOiE).***
